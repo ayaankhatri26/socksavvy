@@ -1,0 +1,121 @@
+body{
+    background-image: url(background.png.png);
+}
+
+.step{
+     font-family: "Dancing Script", cursive;
+     position: relative;
+     top: 20px;
+     left: px;
+     
+     font-size: 20px;
+     
+}
+
+#header1{
+
+   font-family: "Rubik Bubbles", system-ui;
+font-weight: 900;
+margin-left: 10px;
+}
+
+
+
+    
+.main{
+    height: 500px;
+    width: 70%;
+    box-shadow: 2px 2px 2px 5px  rgb(0, 0, 0);
+    position: relative;
+    left: 200px;
+    top: 200px;
+    flex-wrap: wrap;
+    
+}
+#shopnow{
+    position: relative;
+ left: 400px;
+ bottom: 60px;
+box-shadow: 2px 2px 2px 4px turquoise;
+
+}
+#shopnow:hover{
+    font-size: 20px;
+}
+#alert{
+    position: relative;
+    top: 100px;
+    background-color:palevioletred;
+    height: 45px;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px black;
+    font-weight: 800;
+}
+
+
+.card{
+    margin:10px ;
+    padding: 10px;
+    left: 80px;
+    position: relative;
+    display: inline-block;
+}
+.cards{
+   position: relative;
+   top: 250px;
+    height: 500px;
+    width: 100%;
+    background-color;
+    display: inline-block;
+   
+    
+}
+
+#home{
+    position: relative;
+    left: 150px;
+}
+
+#drop{
+    position: relative;
+    left: 170px;
+}
+#disabled{
+    position: relative;
+    left: 190px;
+}
+.featured{
+    font-weight: 900;
+    font-size: 40px;
+   font-family: "Abril Fatface", serif;
+   position: relative;
+   left: 10px;
+   box-shadow: 4px 4px 10px black;
+   text-align: center;
+   
+   
+}
+.card2{
+     margin:10px ;
+    padding: 10px;
+    background-color:white;
+    position: relative;
+    display:inline-block;
+    border-radius: 10px;
+    top: -332px;
+    left: 480px;
+    height: 310px;
+}
+.card3{
+     margin:10px ;
+    padding: 10px;
+    background-color:white;
+    position: relative;
+    display:inline-block;
+    border-radius: 10px;
+    top: -332px;
+    left: 560px;
+    height: 310px;
+}
